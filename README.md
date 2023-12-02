@@ -1,24 +1,38 @@
-# 💫 About Me:
-👨🏻‍💻 Just a developer who writes code to empower and protect goodness<br>🔭 Currently I'm working on Flutter<br>🤩 Tech Blogger with 300K+ Views<br>❤️ Apart from Code Gym, Piano and Books are my second love <br><br>
+# Hey There,
+
+- I'm a Developer Who Writes Code to Empower and Protect Goodness.<br>
+- Currently I'm Working and Exploring React and Nextjs.<br>
+- Tech Blogger with 300K+ Views. <a href="https://blogs.jaytillu.in/" target="_blank">Read My Blogs.</a><br>
+- Apart from Code Gym and Books are My Second Love.<br>
+- Feel Free to Contact Me on <a href="mailto:jay.tillu@outlook.com">jay.tillu@outlook.com</a> <br>
+
+### Tech Stack
+
+- Framework - Nextjs
+- Library - React, TailwindCSS
+- Language - JavaScript
+- State Management - Context API
+- Development Tool - Visual Studio Code
+- Designing Tool - Canva & Figma
+- Version Control - Git & GitHub
+
+### Socials
+
+- <a href="https://www.jaytillu.in" target="_blank">My Site</a>
+- <a href="https://blogs.jaytillu.in/" target="_blank">My Blogs</a>
+- <a href="https://www.linkedin.com/in/jaytillu/" target="_blank">LinkedIn</a>
+- <a href="https://github.com/Jay-Tillu" target="_blank">Github</a>
+- <a href="https://jaytillu.medium.com/" target="_blank">Medium</a>
+- <a href="https://www.frontendmentor.io/profile/Jay-Tillu" target="_blank">Frontend Mentor</a>
+- <a href="https://twitter.com/jay_tillu" target="_blank">Twitter</a>
+- <a href="https://www.instagram.com/jay.tillu/" target="_blank">Instagram</a>
+
+<br/>
+
+<b>Thanks,<b/> <br/>
+Jay Tillu <br/>
+<a href="https://www.jaytillu.in" target="_blank">jaytillu.in</a>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jay.tillu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaytillu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jaytillu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8509590) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jay_tillu) 
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jay-tillu&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jay-tillu&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-tillu&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jay-tillu&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 [![](https://visitcount.itsvg.in/api?id=jay-tillu&icon=0&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
