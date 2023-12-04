@@ -12,16 +12,6 @@
 - Development Tool - Visual Studio Code, Android Studio
 - Designing Tool - Canva & Figma
 
-### Socials
-
-- <a href="https://www.jaytillu.in" target="_blank">My Site</a>
-- <a href="https://blogs.jaytillu.in/" target="_blank">My Blogs</a>
-- <a href="https://www.linkedin.com/in/jaytillu/" target="_blank">LinkedIn</a>
-- <a href="https://github.com/Jay-Tillu" target="_blank">Github</a>
-- <a href="https://jaytillu.medium.com/" target="_blank">Medium</a>
-- <a href="https://twitter.com/jay_tillu" target="_blank">Twitter</a>
-- <a href="https://www.instagram.com/jay.tillu/" target="_blank">Instagram</a>
-
 <br/>
 
 <b>Thanks,<b/> <br/>
