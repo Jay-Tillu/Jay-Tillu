@@ -30,5 +30,3 @@
 <b>Thanks,<b/> <br/>
 Jay Tillu <br/>
 <a href="https://www.jaytillu.in" target="_blank">jaytillu.in</a>
-
-[![](https://visitcount.itsvg.in/api?id=jay-tillu&icon=0&color=5)](https://visitcount.itsvg.in)
