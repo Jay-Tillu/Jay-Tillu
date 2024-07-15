@@ -1,19 +1,18 @@
 # Hey There,
 
 - I'm a Developer Who Writes Code to Empower and Protect Goodness.<br>
-- Tech Blogger with 300K+ Views. <a href="https://blogs.jaytillu.in/" target="_blank">Read My Blogs.</a><br>
+- Tech Blogger with 300K+ Readers. <a href="https://blogs.jaytillu.com/" target="_blank">Read My Blogs.</a><br>
 - Feel Free to Contact Me on <a href="mailto:jay.tillu@outlook.com">jay.tillu@outlook.com</a> <br>
 
 ### Tech Stack
 
-- Framework - Flutter, React
-- Language - Dart, JavaScript
-- State Management - Riverpod
-- Development Tool - Visual Studio Code, Android Studio
+- Framework - React. Nextjs, Tailwind, Bootstrap
+- Language - JavaScript
+- State Management - Redux, React Hooks
 - Designing Tool - Canva & Figma
 
 <br/>
 
 <b>Thanks,<b/> <br/>
 Jay Tillu <br/>
-<a href="https://www.jaytillu.in" target="_blank">jaytillu.in</a>
+<a href="https://www.jaytillu.com" target="_blank">jaytillu.com</a>
